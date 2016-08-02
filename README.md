@@ -30,7 +30,7 @@ Face detection: reference from : <http://angeljohnsy.blogspot.com/2013/07/face-d
   
   
 ### Advantage :
-I use mean shift algorithm and identify human skin can more powerful to classify human's skin, exclude light shad change, different skin clolor, noise...etc  
+I use mean shift algorithm and identify human skin can more powerful to classify human's skin, exclude light shad change, different skin color, noise...etc  
   
 * A example, we can identify skin color in the same.  
 ![readmeimg1](https://raw.githubusercontent.com/PohanYang/App_Identify-Porn-video/master/docs/rd_img1.png) mean shift→ ![readmeimg2](https://raw.githubusercontent.com/PohanYang/App_Identify-Porn-video/master/docs/rd_img2.png)  
