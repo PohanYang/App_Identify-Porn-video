@@ -7,7 +7,7 @@ In many pornographic webs, it have some priority let user know how hardcore in t
 How to decided it in each video?  
 I use mean shift algorithm to identify how much naked in a video, and give a radio.  
   
-* In famous pronographic webs xvideo, it has like this application.  
+* In famous pornographic webs xvideo, it has like this application.  
 ![readmeimg0](https://raw.githubusercontent.com/PohanYang/App_Identify-Porn-video/master/docs/rd_img0.png)  
   
   
